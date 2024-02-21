@@ -1,0 +1,430 @@
+body{
+    background-image: url(image/body_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    color: white;
+    display: inline-block;
+    display: flex;
+    margin-top: 4%;
+    margin-left: 6%;
+    
+}
+.nav-left{
+    cursor: pointer;
+}
+.fa-phone{
+    display: inline-block;
+    margin-left: 20px;
+}
+.fa-envelope{
+    display: inline-block;
+    margin-left: 20px;
+}
+.left-text{
+    display: inline-block;  
+    margin-left: 20px;
+}
+.nav-right{
+    margin-top: -3.5% ;
+    margin-left: 62rem;
+    cursor: pointer;
+}
+.fa-magnifying-glass{
+    position: relative;
+    left: 50px;
+}
+.navbar-brand{
+    margin-left: -7rem;
+    margin-top: -6rem;
+   
+}
+.nav-item{
+    /* margin-left: -40rem; */
+    /* line-height:30px; */
+    rotate: -90deg;
+    font-weight: 400;
+    margin-right: 77.5rem;
+    margin-top: 3rem;
+}
+.box1-heading{
+    color: white;
+    font-size: 65px;
+    font-weight: bold;
+    margin-top: -9rem;
+    margin-left: 3rem;
+
+}
+.box1-text{
+    color: white;
+    font-size: 20px;
+    margin-top: -1rem;
+    margin-left: 3rem;
+}
+.right-img-box1{
+    position: relative;
+    top: -17rem;
+    left: 45rem;
+}
+.box1-btn{
+    color: white;
+    background-color: rgb(255, 89, 0);
+    border-radius: 25px;
+    width: 20%;
+    height:10vh;
+    border: none;
+    outline: none;
+    position: relative;
+    top: -9rem;
+    left:-25rem;
+}
+.circle1{
+    text-align: center; 
+    border-radius: 50px;
+    width: 5%;
+    color: black;
+    height: 10vh;
+    background-color: white;
+    display: inline-block;  
+    
+    
+    
+}
+
+.fa-arrow-left-long{
+    
+     padding-top: 20px;
+    
+}
+.fa-arrow-right-long{
+    padding-top: 20px;
+    
+}
+.circle2 {
+    text-align: center;
+    
+    display: inline-block;
+    border-radius: 50px;
+    width: 5%;
+    color: black;
+    height: 10vh;
+    background-color: white;
+    gap: 10px;
+    
+
+}.box2{
+    margin-left: -5rem;
+    width: 114%;
+    height: 500PX;
+    background-color: white;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.box2-heading{
+   font-size: 45px;
+   font-weight: bold;
+}
+.box2-text{
+    font-size: 18px;
+}
+.box2-btn{
+    color: white;
+    background-color: rgb(225, 79, 0);
+    border-radius: 25px;
+    width: 14%;
+    height:10vh;
+    border: none;
+    outline: none;
+    margin-top: 2rem;
+}
+.right-box2-img{
+    margin-left: 40rem;
+    margin-top: -20rem;
+}
+.box3-heading{
+     color: white;
+     font-size: 45px;
+     font-weight: bold;
+     margin-top: 5rem;
+     text-align: center;
+}
+.box3-text{
+     color: white;
+     font-size: 18px;
+     /* font-weight: bold; */
+     /* margin-top: 5rem; */
+     text-align: center;
+     display: flex;
+}
+.box3-img-1{
+    border-radius:30rem;
+    width: 15rem;
+    background-color: white;
+    height: 15rem;
+    background-image: url(image/box31img.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 2rem;
+    
+    
+}
+.box3-img-2{
+    border-radius:30rem;
+    width: 15rem;
+    background-color: white;
+    height: 15rem;
+    background-image: url(image/quality2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 2rem;
+    
+    
+}
+.box3-img-3{
+    border-radius:30rem;
+    width: 15rem;
+    background-color: white;
+    height: 15rem;
+    background-image: url(image/quality3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 2rem;
+    
+    
+}
+.box3-img-4{
+    border-radius:30rem;
+    width: 15rem;
+    background-color: white;
+    height: 15rem;
+    background-image: url(image/quality4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 2rem;
+    
+    
+}
+.box3-img-5{
+    border-radius:30rem;
+    width: 15rem;
+    background-color: white;
+    height: 15rem;
+    background-image: url(image/quality5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    
+    
+}
+.box3-img-6{
+    border-radius:30rem;
+    width: 15rem;
+    background-color: white;
+    height: 15rem;
+    background-image: url(image/quality6.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 2rem;
+    
+    
+}
+.box3-img-7{
+    border-radius:30rem;
+    width: 15rem;
+    background-color: white;
+    height: 15rem;
+    background-image: url(image/quality7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 2rem;
+    
+    
+}
+.box3-img-8{
+    border-radius:30rem;
+    width: 15rem;
+    background-color: white;
+    height: 15rem;
+    background-image: url(image/quality8.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 2rem;
+    
+    
+}
+::placeholder{
+    color: rgb(140, 134, 134);
+    font-size: 20px;
+   padding-left: 1rem;
+}
+.box3-btn{
+    color: white;
+    background-color: rgb(225, 79, 0);
+    border-radius: 25px;
+    width: 14%;
+    height:10vh;
+    border: none;
+    outline: none;
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: 30rem;
+}
+.box3-btn:hover{
+    background-color: black;
+}
+.box4-heading{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.contact-form{
+    margin-top: 5rem;  
+
+    
+      
+}
+.FullName{
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+.Email{
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+.PhoneNumber{
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    margin-top: 1rem;
+    padding: 10px;
+}
+.Message{
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+.box4-btn{
+    color: white;
+    background-color: rgb(225, 79, 0);
+    border-radius: 25px;
+    width: 14%;
+    height:10vh;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    margin-top: 4rem;
+    text-align: center;
+    font-weight: bold;
+    /* margin-left: 30rem; */
+}
+.box4-btn:hover{
+    background-color: black;
+}
+.box6{
+    margin-top: 3rem;   
+}
+footer{
+    
+    margin-top: 5rem;
+    color: white;
+    display: flex;
+}
+.heading{
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+.text{
+    font-size: 17px;
+}
+.fa-facebook-f{
+    background-color: white;
+    border-radius: 50px;
+    width: 2rem;
+    height: 2rem;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 10px;
+    display: inline-block;
+
+
+}
+.fa-twitter{
+background-color: white;
+border-radius: 50px;
+width: 2rem;
+height: 2rem;
+text-align: center;
+padding-top: 10px;
+font-size: 15px;
+display: inline-block;
+}
+.fa-linkedin{
+background-color: white;
+border-radius: 50px;
+width: 2rem;
+height: 2rem;
+text-align: center;
+padding-top: 10px;
+font-size: 15px;
+display: inline-block;
+}
+
+.Address{
+    margin-left: 10rem;
+    line-height: 2rem;
+}
+.link{
+    margin-left: 10rem;
+    line-height: 2rem;
+}
+.contact-footer{
+    margin-left: 12rem;
+}
+.name{
+    width: 15rem;
+    height: 3rem;
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+}
+.email{
+    width: 15rem;
+    height: 3rem;
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+    
+}
+.subscribe-btn{
+
+    color: white;
+    background-color: rgb(225, 79, 0);
+    border-radius:1rem;
+    width: 15rem;
+    height:3rem;
+border: none;
+outline: none;
+font-size: 15px;
+
+text-align: center;
+
+
+}
+.subscribe-btn:hover{
+    background-color: rgb(212, 47, 10);
+}
